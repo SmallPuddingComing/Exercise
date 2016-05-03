@@ -1,0 +1,14 @@
+
+[D 160412 11:25:01 out_log_to_file:18] hello world
+hello world
+[I 160412 11:29:06 out_log_to_file:18] hello world
+hello world
+[D 160412 11:29:25 out_log_to_file:18] hello world
+hello world
+[W 160412 11:29:36 out_log_to_file:18] hello world
+hello world
+[I 160412 11:30:20 out_log_to_file:19] hello world
+hello world
+[D 160412 11:30:31 out_log_to_file:19] hello world
+hello world
+test
